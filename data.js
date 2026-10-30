@@ -8,7 +8,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "MOKA 27"
   ],
-  "price": 39900,
+  "price": 37200,
   "cat": "Conjuntos",
   "imgs": [
    "img/12888.jpg"
@@ -25,7 +25,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "MOKA 27"
   ],
-  "price": 39700,
+  "price": 37200,
   "cat": "Conjuntos",
   "imgs": [
    "img/12889.jpg"
@@ -42,7 +42,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "MOKA 27"
   ],
-  "price": 44900,
+  "price": 42100,
   "cat": "Conjuntos",
   "imgs": [
    "img/12890.jpg"
@@ -59,7 +59,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "MOKA 27"
   ],
-  "price": 49500,
+  "price": 46500,
   "cat": "Enteras y tankinis",
   "imgs": [
    "img/12891.jpg"
@@ -79,7 +79,7 @@ const PRODUCTOS = [
    "TROPICAL 27",
    "PICNIC 27"
   ],
-  "price": 18900,
+  "price": 17900,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12706.jpg",
@@ -100,7 +100,7 @@ const PRODUCTOS = [
    "AMORE 27",
    "CEBRA 27"
   ],
-  "price": 18900,
+  "price": 17900,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12710.jpg",
@@ -119,7 +119,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 25900,
+  "price": 24300,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12856.jpg"
@@ -137,7 +137,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 18900,
+  "price": 17900,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12769.jpg"
@@ -154,7 +154,7 @@ const PRODUCTOS = [
    "CIELO 27",
    "POP PINK 27"
   ],
-  "price": 49500,
+  "price": 46500,
   "cat": "Conjuntos",
   "imgs": [
    "img/12892.jpg",
@@ -172,7 +172,7 @@ const PRODUCTOS = [
    "CIELO 27",
    "POP PINK 27"
   ],
-  "price": 49500,
+  "price": 46500,
   "cat": "Conjuntos",
   "imgs": [
    "img/12893.jpg"
@@ -188,7 +188,7 @@ const PRODUCTOS = [
    "NEGRO",
    "DUBAI 27"
   ],
-  "price": 49500,
+  "price": 46500,
   "cat": "Conjuntos",
   "imgs": [
    "img/12896.jpg"
@@ -205,7 +205,7 @@ const PRODUCTOS = [
    "MOKA 27",
    "RUBY 27"
   ],
-  "price": 45900,
+  "price": 42900,
   "cat": "Conjuntos",
   "imgs": [
    "img/12894.jpg"
@@ -222,7 +222,7 @@ const PRODUCTOS = [
    "MOKA 27",
    "RUBY 27"
   ],
-  "price": 45900,
+  "price": 42900,
   "cat": "Conjuntos",
   "imgs": [
    "img/12895.jpg"
@@ -239,7 +239,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "POP PINK 27"
   ],
-  "price": 52500,
+  "price": 49300,
   "cat": "Enteras y tankinis",
   "imgs": [
    "img/12899.jpg",
@@ -257,7 +257,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "POP PINK 27"
   ],
-  "price": 49500,
+  "price": 46500,
   "cat": "Conjuntos",
   "imgs": [
    "img/12898.jpg"
@@ -274,7 +274,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "POP PINK 27"
   ],
-  "price": 41900,
+  "price": 39300,
   "cat": "Conjuntos",
   "imgs": [
    "img/12897.jpg"
@@ -289,7 +289,7 @@ const PRODUCTOS = [
   "colors": [
    "RUBY 27"
   ],
-  "price": 49500,
+  "price": 46500,
   "cat": "Conjuntos",
   "imgs": [
    "img/12901.jpg"
@@ -304,7 +304,7 @@ const PRODUCTOS = [
   "colors": [
    "RUBY 27"
   ],
-  "price": 45900,
+  "price": 42900,
   "cat": "Conjuntos",
   "imgs": [
    "img/12900.jpg"
@@ -324,7 +324,7 @@ const PRODUCTOS = [
    "AURA 27",
    "TROPICAL 27"
   ],
-  "price": 26900,
+  "price": 25000,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12612.jpg",
@@ -345,7 +345,7 @@ const PRODUCTOS = [
    "FLORES 27",
    "CEBRA 27"
   ],
-  "price": 21500,
+  "price": 20000,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12707.jpg",
@@ -366,7 +366,7 @@ const PRODUCTOS = [
    "AURA 27",
    "LEO 27"
   ],
-  "price": 19900,
+  "price": 18500,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12504.jpg",
@@ -385,7 +385,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 19100,
+  "price": 17900,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12876.jpg"
@@ -403,7 +403,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 26900,
+  "price": 25000,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12786.jpg"
@@ -422,7 +422,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 15900,
+  "price": 15000,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12533.jpg",
@@ -443,7 +443,7 @@ const PRODUCTOS = [
    "LEO 27",
    "PICNIC 27"
   ],
-  "price": 15900,
+  "price": 15000,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12581.jpg",
@@ -463,7 +463,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 18900,
+  "price": 17900,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12736.jpg"
@@ -480,7 +480,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "CEBRA 27- AURA 27"
   ],
-  "price": 35900,
+  "price": 33500,
   "cat": "Enteras y tankinis",
   "imgs": [
    "img/12878.jpg"
@@ -498,7 +498,7 @@ const PRODUCTOS = [
    "TROPICAL 27",
    "LEO 27"
   ],
-  "price": 37500,
+  "price": 35000,
   "cat": "Enteras y tankinis",
   "imgs": [
    "img/12745.jpg",
@@ -516,7 +516,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "CEBRA 27"
   ],
-  "price": 45900,
+  "price": 42900,
   "cat": "Enteras y tankinis",
   "imgs": [
    "img/12877.jpg",
@@ -533,7 +533,7 @@ const PRODUCTOS = [
    "NEGRO",
    "RUBY 27"
   ],
-  "price": 45900,
+  "price": 42900,
   "cat": "Enteras y tankinis",
   "imgs": [
    "img/12739.jpg"
@@ -550,7 +550,7 @@ const PRODUCTOS = [
    "TROPICAL 27",
    "LEO 27"
   ],
-  "price": 45900,
+  "price": 42900,
   "cat": "Enteras y tankinis",
   "imgs": [
    "img/12148.jpg"
@@ -568,7 +568,7 @@ const PRODUCTOS = [
    "RUBY 27",
    "CIELO 27"
   ],
-  "price": 20500,
+  "price": 19300,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12717.jpg"
@@ -586,7 +586,7 @@ const PRODUCTOS = [
    "LEO 27",
    "CEBRA 27"
   ],
-  "price": 20500,
+  "price": 19300,
   "cat": "Corpiños y tops",
   "imgs": [
    "img/12718.jpg"
@@ -601,7 +601,7 @@ const PRODUCTOS = [
   "colors": [
    "NEGRO"
   ],
-  "price": 45900,
+  "price": 42900,
   "cat": "Enteras y tankinis",
   "imgs": [
    "img/12781.jpg",
@@ -620,7 +620,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 15500,
+  "price": 14300,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12770.jpg",
@@ -642,7 +642,7 @@ const PRODUCTOS = [
    "AURA 27",
    "AMORE 27"
   ],
-  "price": 13900,
+  "price": 12900,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12137.jpg",
@@ -662,7 +662,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 17500,
+  "price": 16500,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12783.jpg",
@@ -682,7 +682,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 15500,
+  "price": 14300,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12322.jpg",
@@ -702,7 +702,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 15500,
+  "price": 14300,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12501.jpg",
@@ -724,7 +724,7 @@ const PRODUCTOS = [
    "LEO 27",
    "PICNIC 27"
   ],
-  "price": 15500,
+  "price": 14300,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12595.jpg",
@@ -743,7 +743,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 15900,
+  "price": 15000,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12530.jpg",
@@ -763,7 +763,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 17500,
+  "price": 16500,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12782.jpg",
@@ -783,7 +783,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 15500,
+  "price": 14300,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12168.jpg",
@@ -802,7 +802,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 15500,
+  "price": 14300,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12708.jpg",
@@ -824,7 +824,7 @@ const PRODUCTOS = [
    "LEO 27",
    "PICNIC 27"
   ],
-  "price": 15500,
+  "price": 14300,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12709.jpg",
@@ -843,7 +843,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 16900,
+  "price": 15700,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12570.jpg",
@@ -862,7 +862,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 15500,
+  "price": 14300,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12327.jpg",
@@ -882,7 +882,7 @@ const PRODUCTOS = [
    "DUBAI 27",
    "RUBY 27"
   ],
-  "price": 17900,
+  "price": 16800,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12124.jpg",
@@ -900,7 +900,7 @@ const PRODUCTOS = [
    "TROPICAL 27",
    "LEO 27"
   ],
-  "price": 15900,
+  "price": 15000,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12345.jpg",
@@ -919,7 +919,7 @@ const PRODUCTOS = [
    "RUBY 27",
    "CIELO 27"
   ],
-  "price": 17500,
+  "price": 16400,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12345.5.jpg",
@@ -938,7 +938,7 @@ const PRODUCTOS = [
    "RUBY 27",
    "CIELO 27"
   ],
-  "price": 17500,
+  "price": 16400,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12500.jpg",
@@ -959,7 +959,7 @@ const PRODUCTOS = [
    "FLORES 27",
    "PICNIC 27"
   ],
-  "price": 15900,
+  "price": 15000,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12711.jpg",
@@ -980,7 +980,7 @@ const PRODUCTOS = [
    "TROPICAL 27",
    "CEBRA 27"
   ],
-  "price": 16900,
+  "price": 15700,
   "cat": "Bombachas y tangas",
   "imgs": [
    "img/12636.jpg",
@@ -996,7 +996,7 @@ const PRODUCTOS = [
   "colors": [
    "NEGRO"
   ],
-  "price": 13900,
+  "price": 12900,
   "cat": "Niñas y teens",
   "imgs": [
    "img/12825.jpg",
@@ -1012,7 +1012,7 @@ const PRODUCTOS = [
   "colors": [
    "NEGRO"
   ],
-  "price": 19900,
+  "price": 18500,
   "cat": "Niñas y teens",
   "imgs": [
    "img/12826.jpg",
@@ -1028,7 +1028,7 @@ const PRODUCTOS = [
   "colors": [
    "NEGRO"
   ],
-  "price": 20500,
+  "price": 19300,
   "cat": "Niñas y teens",
   "imgs": [
    "img/12902.jpg"
@@ -1043,7 +1043,7 @@ const PRODUCTOS = [
   "colors": [
    "NEGRO"
   ],
-  "price": 31900,
+  "price": 30000,
   "cat": "Niñas y teens",
   "imgs": [
    "img/12887.jpg"
@@ -1058,7 +1058,7 @@ const PRODUCTOS = [
   "colors": [
    "MARGARITAS 24"
   ],
-  "price": 30500,
+  "price": 28500,
   "cat": "Niñas y teens",
   "imgs": [
    "img/12884.jpg"
@@ -1074,7 +1074,7 @@ const PRODUCTOS = [
    "SPRING 24",
    "MARGARITAS 24"
   ],
-  "price": 31500,
+  "price": 29300,
   "cat": "Niñas y teens",
   "imgs": [
    "img/12886.jpg"
@@ -1089,7 +1089,7 @@ const PRODUCTOS = [
   "colors": [
    "CHERRY 27"
   ],
-  "price": 30500,
+  "price": 28500,
   "cat": "Niñas y teens",
   "imgs": [
    "img/12903.jpg"
@@ -1106,7 +1106,7 @@ const PRODUCTOS = [
    "LILA 26",
    "APPLE"
   ],
-  "price": 28500,
+  "price": 26500,
   "cat": "Niñas y teens",
   "imgs": [
    "img/12784.jpg"
@@ -1122,7 +1122,7 @@ const PRODUCTOS = [
    "APROCOT 26",
    "LILA 26"
   ],
-  "price": 12500,
+  "price": 11500,
   "cat": "Niñas y teens",
   "imgs": [
    "img/12753.jpg"
@@ -1138,7 +1138,7 @@ const PRODUCTOS = [
    "REX 27",
    "PELOTA 27"
   ],
-  "price": 19900,
+  "price": 18500,
   "cat": "Niñas y teens",
   "imgs": [
    "img/12855.jpg"
